@@ -1,7 +1,7 @@
 // Helpers
-@import "helpers/variables";
-@import "helpers/mixins";
-@import "helpers/reset";
+@import "1-helpers/variables";
+@import "1-helpers/mixins";
+@import "1-helpers/reset";
 
 // Basics
 
@@ -16,4 +16,4 @@
 
 
 // Pages
-@import "helpers/index";
+@import "5-pages/index";
